@@ -1,4 +1,4 @@
-# Index of Projects
+# Index of Projects  
 
 ### iOS
 
@@ -6,14 +6,14 @@
 * [UCLALibrary](https://github.com/orcudy/UCLALibrary)  
 UCLALibrary is a utility app created to provide real-time operating hours, rental laptop availability, and navigation to all 11 of UCLA's libraries. The project is being written in Swift 2.0 and will be released to the App Store in the near future.
 
-* [Speed](https://github.com/orcudy/Speed)  
-Speed is a simple two player game that was created to teach iOS development to novice developers. The project was written in Swift 2.0 and used UIKit for all interface elements; it will not be released to the App Store.
-
 * [eWeek](https://github.com/orcudy/eWeek)  
 eWeek is a utility app that was built to accompany the annual Engineering Week event hosted at UCLA and serves as a real-time leaderboard and schedule of events. The project was written in Swift 1.0, used Parse for the backend, and Interface Builder for the interface; it was [released](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=981637936&mt=8) to the App Store in Spring, 2015.
 
-* [Biplanes](https://github.com/orcudy/Biplanes)  
+* [Biplanes](https://github.com/orcudy/Biplanes) | [Video Demo](https://vimeo.com/103840072)  
 Biplanes is a game that was built in 8 weeks during the Make Summer Academy in 2014. The project was written in Objective-C using SpriteBuilder and was [released](https://itunes.apple.com/us/app/biplanes!/id904104087?ls=1&mt=8!)  to the App Store in Summer, 2014.
+
+* [Speed](https://github.com/orcudy/Speed)  
+Speed is a simple two player game that was created to teach iOS development to novice developers. The project was written in Swift 2.0, using UIKit for all interface elements; it will not be released to the App Store.
 
 #### Modules
 
