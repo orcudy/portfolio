@@ -17,7 +17,7 @@ Speed is a simple two player game that was created to teach iOS development to n
 
 #### Modules
 
-* [COMapView](https://github.com/orcudy/COMapView)  
+* [COMapView](https://github.com/orcudy/COMapView) | [Video Demo](https://vimeo.com/137106260)  
 The COMapView project provides a kick-ass and easy to use class that allows developers to create (via Interface Builder or programmatically) map views with a great looking footer, tap to open Apple maps functionality, and custom map annotations.
 
 * [CODataManager](https://github.com/orcudy/CODataManager)  
