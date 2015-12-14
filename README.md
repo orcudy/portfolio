@@ -49,3 +49,8 @@ The HTTPServer project is an implementation of a basic HTTP server that supports
 
 * [LispUtilities](https://github.com/orcudy/LispUtilities)  
 The LispUtilities project contains utilities (and a myriad of tests) for manipulating x, y coordinates by manhattan distance, common list operations (inserting into list, index of element in list, etc.), and common grid (2D lists) operations (extracing a value at a specific coordinate, finding the number of occurrences of a specific symbol, etc).
+
+### Hardware
+* Dumbo | [Flight Video](https://vimeo.com/album/3693518/video/147213131)  
+Dumbo is a remote-controlled quad copter that was built from off the shelf parts in preparation (to learn how a quad copter flys and the components that go into a quad copter) for building an autonomous drone controllable through a mobile interface. The entire process of building Dumbo was documented and can be found [here](https://medium.com/@orcudy/the-journey-begins-ee7f7fdcb160#.2vsc9osta)
+
