@@ -21,14 +21,10 @@ Speed is a simple two player game that was created to teach iOS development to n
 The COMapView project provides a kick-ass and easy to use class that allows developers to create (via Interface Builder or programmatically) map views with a great looking footer, tap to open Apple maps functionality, and custom map annotations.
 
 * [CODataManager](https://github.com/orcudy/CODataManager)  
-The CODataManager project provides a data management class consisting of an HTTP client and data persistence mechanism.
-
-CODataManager was created to be used by other iOS developers to simplify the process of fetching, parsing, and caching data.
+The CODataManager project provides a data management class consisting of an HTTP client and data persistence mechanism. CODataManager was created to be used by other iOS developers to simplify the process of fetching, parsing, and caching data.
 
 * [COCircleIndicator](https://github.com/orcudy/COCircleIndicator)  
-The COCircleIndicator project provides an easy to use class that allows for creation of animated indicator circles.
-
-COCircleIndicator was created to be used by other iOS developers to simplify the process of creating a good looking circle animation.
+The COCircleIndicator project provides an easy to use class that allows for creation of animated indicator circles. COCircleIndicator was created to be used by other iOS developers to simplify the process of creating a good looking circle animation.
 
 #### Demos
 
