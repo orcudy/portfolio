@@ -1,4 +1,9 @@
-# Index of Projects  
+# Chris Orcutt's Portfolio 
+
+This repository is home to all of my most recent projects and includes links to source code, video demos, or App Store links where appropriate. Enjoy!
+
+### Design Portfolio
+My design portfolio (including iOS app mockups, iconography, and graphic art) can be found [here!](https://goo.gl/sQbLqI)
 
 ### iOS
 
