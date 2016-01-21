@@ -70,4 +70,8 @@ Simon 2.0 is a clone of Hasbro's popular game, Simon, and was built using the Ar
 High Roller is an electronic die that was built using the Arduino platform. 
 
 ### Design Portfolio
-My design portfolio (including iOS app mockups, iconography, and graphic art) can be found [here!](https://goo.gl/sQbLqI)
+
+* [Mockups](https://www.dropbox.com/sh/nkfh5o3f2jltaxe/AABA7swlYrjjWHk3-zzkAQj0a?dl=0)
+* [Iconography](https://www.dropbox.com/sh/1cuskhqvdgnm4ii/AAAytV6w6f-TcHK7yl5kMsGta?dl=0)
+* [Graphic Art](https://www.dropbox.com/sh/a5hqz2551zug8m6/AABjAUBn6bSt364ykVQ9tkFfa?dl=0)
+* [App Icons](https://www.dropbox.com/sh/ysi8pzu05cvaomh/AAB5Ae7LMSAybaO7AbamNmo9a?dl=0)
