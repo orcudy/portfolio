@@ -2,9 +2,6 @@
 
 This repository is home to all of my most recent projects and includes links to source code, video demos, or App Store links where appropriate. Enjoy!
 
-### Design Portfolio
-My design portfolio (including iOS app mockups, iconography, and graphic art) can be found [here!](https://goo.gl/sQbLqI)
-
 ### iOS
 
 #### Apps
@@ -71,3 +68,6 @@ Simon 2.0 is a clone of Hasbro's popular game, Simon, and was built using the Ar
 
 * High Roller | [Video Demo](https://www.youtube.com/watch?v=iAKFtmWaHXI)  
 High Roller is an electronic die that was built using the Arduino platform. 
+
+### Design Portfolio
+My design portfolio (including iOS app mockups, iconography, and graphic art) can be found [here!](https://goo.gl/sQbLqI)
