@@ -54,7 +54,7 @@ The LispUtilities project contains utilities (and a myriad of tests) for manipul
 
 ### Hardware
 
-* [Picam](https://vimeo.com/152344182)
+* Picam | [Video Demo](https://vimeo.com/152344182)  
 Picam is a camera system that can be controlled via a mobile device. It was built on the Raspberry Pi platform and consists of an application server (using raw sockets in Python), servo based control mechanism (using GPIO pins on the Raspberry Pi), and iOS app interface (built in Swift 2.0). Picam was built at IDEAHacks 2016 at UCLA. A retrospective of my experiences building Picam can be found [here](https://medium.com/@orcudy/picam-a-retrospective-of-ideahacks-faaa60e8aeb1#.z1xu6qhhb).
 
 * Dumbo | [Flight Video](https://vimeo.com/album/3693518/video/147213131)  
