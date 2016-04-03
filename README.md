@@ -11,7 +11,7 @@ Dumbo is a remote-controlled quad copter that was built from off the shelf parts
 * Medusa | [full info](https://github.com/orcudy/index/wiki/Medusa) | [video demo](http://bit.ly/demo-medusa )  
 Medusa is an autonomous maze navigating robot built using the Arduino platform and won 2nd place at the UCLA Open Project Space Robotics Race.
 
-* Simon 2.0 | [dideo demo](https://www.youtube.com/watch?v=Y-aSRVm62rg)  
+* Simon 2.0 | [video demo](https://www.youtube.com/watch?v=Y-aSRVm62rg)  
 Simon 2.0 is a clone of Hasbro's popular game, Simon, and was built using the Arduino platform. 
 
 * High Roller | [video demo](https://www.youtube.com/watch?v=iAKFtmWaHXI)  
