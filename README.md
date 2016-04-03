@@ -1,6 +1,4 @@
-# Chris Orcutt's Portfolio 
-
-This repository is home to all of my most recent projects and includes links to source code, video demos, or App Store links where appropriate. Enjoy!
+The following repository serves as an index of past past projects.
 
 ### Embedded
 
