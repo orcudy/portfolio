@@ -4,13 +4,13 @@ This repository is home to all of my most recent projects and includes links to 
 
 ### Embedded
 
-* Picam | [Video Demo](https://vimeo.com/152344182)  
+* Picam | [Video Demo](https://vimeo.com/152344182), [More Info](https://github.com/orcudy/index/wiki/Picam)  
 Picam is a camera system that can be controlled via a mobile device. It was built on the Raspberry Pi platform and consists of an application server (using raw sockets in Python), servo based control mechanism (using GPIO pins on the Raspberry Pi), and iOS app interface (built in Swift 2.0). Picam was built at IDEAHacks 2016 at UCLA. A retrospective of my experiences building Picam can be found [here](https://medium.com/@orcudy/picam-a-retrospective-of-ideahacks-faaa60e8aeb1#.z1xu6qhhb).
 
-* Dumbo | [Flight Video](https://vimeo.com/album/3693518/video/147213131)  
+* Dumbo | [Flight Video](https://vimeo.com/album/3693518/video/147213131), [More Info](https://github.com/orcudy/index/wiki/Dumbo)  
 Dumbo is a remote-controlled quad copter that was built from off the shelf parts in preparation (to learn how a quad copter flies and the components that go into a quad copter) for building an autonomous drone controllable through a mobile interface. The entire process of building Dumbo was documented and can be found [here](https://medium.com/@orcudy/the-journey-begins-ee7f7fdcb160#.2vsc9osta).
 
-* Medusa | [Video Demo](http://bit.ly/demo-medusa )  
+* Medusa | [Video Demo](http://bit.ly/demo-medusa ), [More Info](https://github.com/orcudy/index/wiki/Medusa)  
 Medusa is an autonomous maze navigating robot built using the Arduino platform and won 2nd place at the UCLA Open Project Space Robotics Race.
 
 * Simon 2.0 | [Video Demo](https://www.youtube.com/watch?v=Y-aSRVm62rg)  
@@ -35,13 +35,13 @@ The LispUtilities project contains utilities (and a myriad of tests) for manipul
 ### iOS
 
 #### Apps
-* [UCLALibrary](https://github.com/orcudy/UCLALibrary) | [Video Demo](https://vimeo.com/album/3693502/video/148405704)  
+* [UCLALibrary](https://github.com/orcudy/UCLALibrary) | [Video Demo](https://vimeo.com/album/3693502/video/148405704), [More Info](https://github.com/orcudy/index/wiki/UCLALibrary)  
 UCLALibrary is a utility app created to provide real-time operating hours, rental laptop availability, and navigation to all 11 of UCLA's libraries. The project is being written in Swift 2.0 and will be released to the App Store in the near future.
 
-* [eWeek](https://github.com/orcudy/eWeek) | [Video Demo](https://vimeo.com/album/3693502/video/148404888)  
+* [eWeek](https://github.com/orcudy/eWeek) | [Video Demo](https://vimeo.com/album/3693502/video/148404888), [More Info](https://github.com/orcudy/index/wiki/eWeek)  
 eWeek is a utility app that was built to accompany the annual Engineering Week event hosted at UCLA and serves as a real-time leaderboard and schedule of events. The project was written in Swift 1.0, used Parse for the backend, and Interface Builder for the interface; it was [released](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=981637936&mt=8) to the App Store in Spring, 2015.
 
-* [Biplanes](https://github.com/orcudy/Biplanes) | [Video Demo](https://vimeo.com/album/3693502/video/103840072)  
+* [Biplanes](https://github.com/orcudy/Biplanes) | [Video Demo](https://vimeo.com/album/3693502/video/103840072), [More Info](https://github.com/orcudy/index/wiki/Biplanes)  
 Biplanes is a game that was built in 8 weeks during the Make Summer Academy in 2014. The project was written in Objective-C using SpriteBuilder and was [released](https://itunes.apple.com/us/app/biplanes!/id904104087?ls=1&mt=8!)  to the App Store in Summer, 2014.
 
 * [Speed](https://github.com/orcudy/Speed)  
