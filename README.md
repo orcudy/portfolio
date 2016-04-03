@@ -5,6 +5,18 @@ This repository is home to all of my most recent projects and includes links to 
 ### Embedded
 
 * Picam | [Video Demo](https://vimeo.com/152344182)  
+Picam is a mobile camera system controlled via an iOS application. It was built on the Raspberry Pi platform and consisted of three primary subsystems: a movement system, a communication system, and a control system.
+
+1. The movement system consisted of two servos controlled via a Raspberry Pi, enabling two degrees of freedom of movement of the camera.
+2. The communication system consisted of a Python application server running on the same Raspberry Pi.
+3. The control system consisted of a custom built iOS application that allowed users to control the direction of the camera by touching the screen.
+
+The iOS application connected to the Python application server over the Internet and sent messages indicating where the camera should be pointing. The application server parsed the messages and changed the positions of the servos accordingly. The output of the camera was displayed on an external monitor. Picam was created in 24 hours during the IDEAHacks Hackathon at UCLA in 2016.
+
+To see Picam in action, check out the following video demo:  http://bit.ly/demo-picam.
+
+For a retrospective of the build process, check out the project blog: http://bit.ly/blog-picam 
+
 Picam is a camera system that can be controlled via a mobile device. It was built on the Raspberry Pi platform and consists of an application server (using raw sockets in Python), servo based control mechanism (using GPIO pins on the Raspberry Pi), and iOS app interface (built in Swift 2.0). Picam was built at IDEAHacks 2016 at UCLA. A retrospective of my experiences building Picam can be found [here](https://medium.com/@orcudy/picam-a-retrospective-of-ideahacks-faaa60e8aeb1#.z1xu6qhhb).
 
 * Dumbo | [Flight Video](https://vimeo.com/album/3693518/video/147213131)  
