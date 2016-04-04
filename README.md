@@ -1,5 +1,25 @@
 The following repository serves as an index of past past projects.
 
+### C/C++
+
+* RDTP | [source](https://github.com/orcudy/rdtp)  
+RDTP is an implementation of the Go-Back-N protocol and provides reliable data transfer over UDP.  
+
+### Python
+
+* Pervasive Connectivity | [source](https://github.com/orcudy/pervasive-connectivity)  
+Pervasive Connectivity was a data analysis project attempting to classify people based on their support of governmental surveillance programs.  
+
+### Lisp
+
+* Lisp Utilities | [source](https://github.com/orcudy/lisp-utils)  
+The Lisp Utilities project contains utilities (and a myriad of tests) for manipulating x, y coordinates by manhattan distance, common list operations (inserting into list, index of element in list, etc.), and common grid (2D lists) operations (extracing a value at a specific coordinate, finding the number of occurrences of a specific symbol, etc).
+
+### OCaml
+
+* Blind Alley Rule Filter | [source](https://github.com/orcudy/blind-alley-rules)  
+The Blind Alley Rule filter project contains an implementation of a mechanism to filter out blind-alley rules from formal grammars.
+
 ### Embedded
 
 * Picam | [full info](https://github.com/orcudy/index/wiki/Picam) | [video demo](https://vimeo.com/152344182)  
@@ -16,19 +36,6 @@ Simon 2.0 is a clone of Hasbro's popular game, Simon, and was built using the Ar
 
 * High Roller | [video demo](https://www.youtube.com/watch?v=iAKFtmWaHXI)  
 High Roller is an electronic die that was built using the Arduino platform. 
-
-### C/C++
-
-* RDTP | [source](https://github.com/orcudy/RDTP)  
-RDTP is an implementation of the Go-Back-N protocol and provides reliable data transfer over UDP.  
-
-* HTTPServer | [source](https://github.com/orcudy/HTTPServer)  
-The HTTPServer project is an implementation of a basic HTTP server that supports serving webpages containing JPG and GIF images.
-
-### Lisp
-
-* LispUtilities | [source](https://github.com/orcudy/LispUtilities)  
-The LispUtilities project contains utilities (and a myriad of tests) for manipulating x, y coordinates by manhattan distance, common list operations (inserting into list, index of element in list, etc.), and common grid (2D lists) operations (extracing a value at a specific coordinate, finding the number of occurrences of a specific symbol, etc).
 
 ### iOS
 
