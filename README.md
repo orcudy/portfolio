@@ -25,13 +25,7 @@ A library containing methods for manipulating (x, y) coordinates by manhattan di
 * Blind Alley Rule Filter | [source](https://github.com/orcudy/blind-alley-rules)  
 A mechanism to filter out blind-alley rules from formal grammars.
 
-### Embedded
-
-* Picam | [full info](https://github.com/orcudy/index/wiki/Picam) | [video demo](https://vimeo.com/152344182)  
-A camera system built on the Raspberry Pi platform that allows a user to control where a camera is pointing via a mobile phone.
-
-* Dumbo | [full info](https://github.com/orcudy/index/wiki/Dumbo) | [flight video](https://vimeo.com/album/3693518/video/147213131)  
-A remote-controlled quad copter that was built from off the shelf parts in preparation (to learn how a quad copter flies and the components that go into a quad copter) for building an autonomous drone controllable through a mobile interface. 
+### Arduino
 
 * Medusa | [full info](https://github.com/orcudy/index/wiki/Medusa) | [video demo](http://bit.ly/demo-medusa )  
 An autonomous maze navigating robot built using the Arduino platform and won 2nd place at the UCLA Open Project Space Robotics Race.
@@ -41,6 +35,16 @@ A clone of Hasbro's popular game, Simon, and was built using the Arduino platfor
 
 * High Roller | [video demo](https://www.youtube.com/watch?v=iAKFtmWaHXI)  
 An electronic die that was built using the Arduino platform. 
+
+### Raspberry Pi
+
+* Picam | [full info](https://github.com/orcudy/index/wiki/Picam) | [video demo](https://vimeo.com/152344182)  
+A camera system built on the Raspberry Pi platform that allows a user to control where a camera is pointing via a mobile phone.
+
+### Miscellaneous 
+
+* Dumbo | [full info](https://github.com/orcudy/index/wiki/Dumbo) | [flight video](https://vimeo.com/album/3693518/video/147213131)  
+A remote-controlled quad copter that was built from off the shelf parts in preparation (to learn how a quad copter flies and the components that go into a quad copter) for building an autonomous drone controllable through a mobile interface. 
 
 ### iOS
 
