@@ -43,7 +43,7 @@ A camera system built on the Raspberry Pi platform that allows a user to control
 
 ### iOS
 
-* UCLALibrary | [full info](https://github.com/orcudy/index/wiki/UCLALibrary) | [source](https://github.com/orcudy/UCLALibrary) | [video demo](https://vimeo.com/album/3693502/video/148405704)  
+* UCLALibrary | [full info](https://github.com/orcudy/index/wiki/UCLALibrary) | [source](http://bit.ly/github-uclalibrary) | [video demo](https://vimeo.com/album/3693502/video/148405704)  
 A utility app created to provide real-time operating hours, rental laptop availability, and navigation to all 11 of UCLA's libraries. The project is being written in Swift 2.0 and will be released to the App Store in the near future.
 
 * eWeek | [full info](https://github.com/orcudy/index/wiki/eWeek) | [source](https://github.com/orcudy/archive/tree/master/ios/apps/eweek) | [video demo](https://vimeo.com/album/3693502/video/148404888)  
