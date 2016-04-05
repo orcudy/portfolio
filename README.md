@@ -10,6 +10,11 @@ An implementation of the Go-Back-N protocol and provides reliable data transfer 
 * Pervasive Connectivity | [source](https://github.com/orcudy/pervasive-connectivity)  
 A data analysis project attempting to classify people based on their support of governmental surveillance programs.  
 
+### Bash
+
+* Buggy | [source](https://github.com/orcudy/buggy)  
+A program that writes programs which recursively copy/remove/execute files/code throughout subdirectories.   
+
 ### Lisp
 
 * Lisp Utilities | [source](https://github.com/orcudy/lisp-utils)  
