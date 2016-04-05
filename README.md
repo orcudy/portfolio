@@ -41,14 +41,8 @@ An electronic die that was built using the Arduino platform.
 * Picam | [full info](https://github.com/orcudy/index/wiki/Picam) | [video demo](https://vimeo.com/152344182)  
 A camera system built on the Raspberry Pi platform that allows a user to control where a camera is pointing via a mobile phone.
 
-### Miscellaneous 
-
-* Dumbo | [full info](https://github.com/orcudy/index/wiki/Dumbo) | [flight video](https://vimeo.com/album/3693518/video/147213131)  
-A remote-controlled quad copter that was built from off the shelf parts in preparation (to learn how a quad copter flies and the components that go into a quad copter) for building an autonomous drone controllable through a mobile interface. 
-
 ### iOS
 
-#### Apps
 * UCLALibrary | [full info](https://github.com/orcudy/index/wiki/UCLALibrary) | [source](https://github.com/orcudy/UCLALibrary) | [video demo](https://vimeo.com/album/3693502/video/148405704)  
 A utility app created to provide real-time operating hours, rental laptop availability, and navigation to all 11 of UCLA's libraries. The project is being written in Swift 2.0 and will be released to the App Store in the near future.
 
@@ -58,32 +52,12 @@ A utility app built for UCLA's annual Engineering Week event. It was [released](
 * Biplanes | [full info](https://github.com/orcudy/index/wiki/Biplanes) | [source](https://github.com/orcudy/archive/tree/master/ios/apps/biplanes) | [video demo](https://vimeo.com/album/3693502/video/103840072)  
 A game that was built in 8 weeks during the Make Summer Academy in 2014. It was [released](https://itunes.apple.com/us/app/biplanes!/id904104087?ls=1&mt=8!) to the App Store in Summer, 2014.
 
-* Speed | [source](https://github.com/orcudy/archive/tree/master/ios/apps/speed)  
-A simple two player game that was created to teach iOS development to novice developers. The project was written in Swift 2.0, using UIKit for all interface elements; it will not be released to the App Store.
+### Miscellaneous 
 
-#### Modules
+* Dumbo | [full info](https://github.com/orcudy/index/wiki/Dumbo) | [flight video](https://vimeo.com/album/3693518/video/147213131)  
+A remote-controlled quad copter that was built from off the shelf parts in preparation (to learn how a quad copter flies and the components that go into a quad copter) for building an autonomous drone controllable through a mobile interface. 
 
-* COMapView | [source](https://github.com/orcudy/archive/tree/master/ios/razzle/map-view) | [video demo](https://vimeo.com/album/3693502/video/148405026)  
-A kick-ass and easy to use class that allows developers to create (via Interface Builder or programmatically) map views with a great looking footer, tap to open Apple maps functionality, and custom map annotations.
-
-* CODataManager | [source](https://github.com/orcudy/archive/tree/master/ios/razzle/data-manager)  
-A data management class consisting of an HTTP client and data persistence mechanism. CODataManager was created to be used by other iOS developers to simplify the process of fetching, parsing, and caching data.
-
-* COCircleIndicator | [source](https://github.com/orcudy/archive/tree/master/ios/razzle/circle-indicator)  
-An easy to use class that allows for creation of animated indicator circles. COCircleIndicator was created to be used by other iOS developers to simplify the process of creating a good looking circle animation.
-
-#### Demos
-
-* UISearchControllerDemo | [source](https://github.com/orcudy/archive/tree/master/ios/demos/uisearch-controller)  
-Project demonstrating how to setup and use a UISearchController.
-
-* ShareButtonDemo | [source](https://github.com/orcudy/archive/tree/master/ios/demos/share-button)  
-Project demonstrating how to implement a share button using SpriteBuilder.
-
-* CoreMotionDemo | [source](https://github.com/orcudy/archive/tree/master/ios/demos/core-motion
-Project demonstrating how to determine the orientation of your device in 3D space using the Core Motion Framework.
-
-### Design Portfolio
+### Design
 
 * [Mockups](https://www.dropbox.com/sh/nkfh5o3f2jltaxe/AABA7swlYrjjWHk3-zzkAQj0a?dl=0)
 * [Iconography](https://www.dropbox.com/sh/1cuskhqvdgnm4ii/AAAytV6w6f-TcHK7yl5kMsGta?dl=0)
