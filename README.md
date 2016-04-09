@@ -28,7 +28,7 @@ A mechanism to filter out blind-alley rules from formal grammars.
 ### Arduino
 
 * Medusa | [full info](https://github.com/orcudy/index/wiki/Medusa) | [video demo](http://bit.ly/demo-medusa )  
-An autonomous maze navigating robot built using the Arduino platform and won 2nd place at the UCLA Open Project Space Robotics Race.
+An autonomous maze navigating robot built on the Arduino platform that won 2nd place at the UCLA Open Project Space Robotics Race.
 
 * Simon 2.0 | [video demo](https://www.youtube.com/watch?v=Y-aSRVm62rg)  
 A clone of Hasbro's popular game, Simon, and was built using the Arduino platform. 
