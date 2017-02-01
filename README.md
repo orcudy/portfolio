@@ -11,11 +11,6 @@ A utility app built for UCLA's annual Engineering Week event. It was [released](
 * Biplanes | [full info](https://github.com/orcudy/index/wiki/Biplanes) | [source](https://github.com/orcudy/archive/tree/master/ios/apps/biplanes) | [video demo](https://vimeo.com/album/3693502/video/103840072)  
 A game that was built in 8 weeks during the Make Summer Academy in 2014. It was [released](https://itunes.apple.com/us/app/biplanes!/id904104087?ls=1&mt=8!) to the App Store in Summer, 2014.
 
-### Miscellaneous 
-
-* Dumbo | [full info](https://github.com/orcudy/index/wiki/Dumbo) | [flight video](https://vimeo.com/album/3693518/video/147213131)  
-A remote-controlled quad copter that was built from off the shelf parts in preparation (to learn how a quad copter flies and the components that go into a quad copter) for building an autonomous drone controllable through a mobile interface. 
-
 ### Design
 
 * [Mockups](https://www.dropbox.com/sh/nkfh5o3f2jltaxe/AABA7swlYrjjWHk3-zzkAQj0a?dl=0)
@@ -62,3 +57,9 @@ An electronic die that was built using the Arduino platform.
 
 * Picam | [full info](https://github.com/orcudy/index/wiki/Picam) | [video demo](https://vimeo.com/152344182)  
 A camera system built on the Raspberry Pi platform that allows a user to control where a camera is pointing via a mobile phone.
+
+### Miscellaneous 
+
+* Dumbo | [full info](https://github.com/orcudy/index/wiki/Dumbo) | [flight video](https://vimeo.com/album/3693518/video/147213131)  
+A remote-controlled quad copter that was built from off the shelf parts in preparation (to learn how a quad copter flies and the components that go into a quad copter) for building an autonomous drone controllable through a mobile interface. 
+
