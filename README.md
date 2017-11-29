@@ -1,6 +1,12 @@
-Greetings! You've found Chris Orcutt's small home on the Internet. This is the place to go if you want to see all of the stuff that Chris has worked on over the years. From iOS apps, to robots, to original songs, anything meaningful that Chris has worked on over the years can be found here! If you want to shower Chris with praise, colloborate, or give him a job, feel free to reach out at orcutt.chris@gmail.com. 
+Greetings you beautiful people! I'm Chris Orcutt and you've found my small home on the Internet. I created this portfolio of projects to give you (friends, family, lovers, future employers, future collaborators)  a better understanding of who I am. Many people would say that I’m kind of all over the place, and they would be right. I like to keep things interesting and I have a track record to prove it.
 
-Cheers to your truest self. 
+I have the analytical skills of a UCLA trained computer scientist and can hold my own against engineers. I’ve built autonomous robots, remote controlled quad-copters, and have been involved in designing, developing, and releasing 13 apps to the Apple App Store. 
+
+I have an intensely creative spirit and have been known to spontaneously break out in song and dance. I’ve put my photoshop skills to the test designing and launching an independent clothing label, have been the creative director/photographer/model/editor on multiple photo and video shoots, and have composed and performed original songs to 100’s of people. 
+
+I am an empathetic communicator, teacher, and student. I have been the community manager of an extraordinarily diverse learning community in San Francisco, taught both high school students and career changing adults in a variety of subjects ranging from English to chemistry to application development, and have wrote a book (well, an online tutorial) on building iOS applications. 
+
+I choose to live differently, to be inspired, to be interested and interesting. Cheers to your truest self. 
 
 ### xActivist 
 
@@ -22,7 +28,7 @@ An iOS game about planes designed for kids. It was [released](https://itunes.app
 ### Creative
 
 * [Check Mockup](https://www.dropbox.com/sh/nkfh5o3f2jltaxe/AABA7swlYrjjWHk3-zzkAQj0a?dl=0)
-
+* [Buttercups Photoshoot](https://www.dropbox.com/sh/5acw6208v43pu3n/AABH46BRZ7N-vX3jNIoF67eJa?dl=0)
 
 
 ### Python
