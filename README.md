@@ -10,9 +10,8 @@ I choose to live differently, to be inspired, to be interested and interesting. 
 
 ### xActivist 
 
-[xActivist](https://represent.com/store/xactivist) is an independent clothing label based in Seattle, Washington that creates culturally aware & socially relevant clothing. They advocate for social, political, and economic equality for women, Black people, and LGBTQ people.
-
-The goal is to create simple but meaningful messages that inspire change on ethically sourced clothing that people are proud to wear.
+* xActivist | [Store](https://represent.com/store/xactivist)  
+xActivist is an independent clothing label that creates culturally aware & socially relevant clothing. The goal is to create simple but meaningful messages that inspire change on ethically sourced clothing that people are proud to wear.
 
 ### Creative
 
@@ -30,10 +29,10 @@ I have been writing and playing original acoustic music for the last 10 years.
 
 ### Writing
 
-* Make School Notes | [Tutorial](https://www.makeschool.com/online-courses/tutorials/learn-how-to-build-make-school-notes-in-swift-3/welcome)
-An iOS application development tutorial designed 
+* Make School Notes | [Tutorial](https://www.makeschool.com/online-courses/tutorials/learn-how-to-build-make-school-notes-in-swift-3/welcome)  
+An online tutorial designed to teach the basics of iOS application development.
 
-* [E = MC^2](https://medium.com/@chrisorcutt/e-mc2-5015a71e390d)
+* [E = MC^2](https://medium.com/@chrisorcutt/e-mc2-5015a71e390d)  
 An autobiographical piece about my journey through the education system.
 
 ### Apps
