@@ -1,6 +1,6 @@
 Greetings you *beautiful people*!   
 
-I'm Chris Orcutt and you've found my small home on the Internet. I created this portfolio of projects to give you (friends, family, future employers, future collaborators)  a better understanding of who I am. Many people would say that I’m kind of all over the place, and they would be right. I like to keep things interesting and I have a track record to prove it:
+I'm Chris Orcutt and you've found my small home on the Internet. I created this portfolio of projects to give you a better understanding of who I am. Many people would say that I’m kind of all over the place, and they would be right. I like to keep things interesting and I have a track record to prove it:
 
 * I have an **intensely creative spirit** and have been known to spontaneously break out in song and dance. I’ve put my photoshop skills to the test designing and launching an independent clothing label, have been the creative director/photographer/model/editor on multiple photo and video shoots, and have composed and performed original songs to 100’s of people. 
 
