@@ -27,9 +27,14 @@ An iOS game about planes designed for kids. It was [released](https://itunes.app
 
 ### Creative
 
-* [Check Mockup](https://www.dropbox.com/sh/nkfh5o3f2jltaxe/AABA7swlYrjjWHk3-zzkAQj0a?dl=0)
-* [Buttercups Photoshoot](https://www.dropbox.com/sh/5acw6208v43pu3n/AABH46BRZ7N-vX3jNIoF67eJa?dl=0)
-* [Buttercups Video Ad] (https://vimeo.com/226080197)
+* Check | [Mockups](https://www.dropbox.com/sh/nkfh5o3f2jltaxe/AABA7swlYrjjWHk3-zzkAQj0a?dl=0)  
+Check is a lightweight task manager that was designed to keep teams accountable. I designed the mockups using Sketch3 and went through multiple iterations of user testing.
+
+* Buttercups | [Photoshoot](https://www.dropbox.com/sh/5acw6208v43pu3n/AABH46BRZ7N-vX3jNIoF67eJa?dl=0) | [Video Ad](https://vimeo.com/226080197)  
+Buttercups was an ecommerce project that private labeled pushup bras. The photos and videos were used as advertising creative on Facebook. I was responsible for the entire process from hiring models, to creating the scene, to capturing the photo/video, to post production.
+
+* Melona | [Photoshoot](https://www.dropbox.com/sh/8svs4cqmbe71ouf/AABbw0IflgiaUskCkEcSrs7Aa?dl=0) | [Video Ad](https://youtu.be/zq4Tb_XMaAA)  
+Similar to Buttercups, Melona was a private label ecommerce project. I was responsible for the entire creative process.
 
 
 ### Python
