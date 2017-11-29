@@ -29,6 +29,7 @@ An iOS game about planes designed for kids. It was [released](https://itunes.app
 
 * [Check Mockup](https://www.dropbox.com/sh/nkfh5o3f2jltaxe/AABA7swlYrjjWHk3-zzkAQj0a?dl=0)
 * [Buttercups Photoshoot](https://www.dropbox.com/sh/5acw6208v43pu3n/AABH46BRZ7N-vX3jNIoF67eJa?dl=0)
+* [Buttercups Video Ad] (https://vimeo.com/226080197)
 
 
 ### Python
