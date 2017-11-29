@@ -19,11 +19,11 @@ An iOS utility app built for UCLA's annual Engineering Week event. It was [relea
 * Biplanes | [full info](https://github.com/orcudy/index/wiki/Biplanes) | [source](https://github.com/orcudy/archive/tree/master/ios/apps/biplanes) | [video demo](https://vimeo.com/album/3693502/video/103840072)  
 An iOS game about planes designed for kids. It was [released](https://itunes.apple.com/us/app/biplanes!/id904104087?ls=1&mt=8!) to the App Store in Summer, 2014.
 
-### Design
+### Creative
 
-* [Mockups](https://www.dropbox.com/sh/nkfh5o3f2jltaxe/AABA7swlYrjjWHk3-zzkAQj0a?dl=0)
-* [Graphic Art](https://www.dropbox.com/sh/a5hqz2551zug8m6/AABjAUBn6bSt364ykVQ9tkFfa?dl=0)
-* [App Icons](https://www.dropbox.com/sh/ysi8pzu05cvaomh/AAB5Ae7LMSAybaO7AbamNmo9a?dl=0)
+* [Check Mockup](https://www.dropbox.com/sh/nkfh5o3f2jltaxe/AABA7swlYrjjWHk3-zzkAQj0a?dl=0)
+
+
 
 ### Python
 
