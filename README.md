@@ -6,7 +6,7 @@ I am an empathetic communicator, teacher, and student. I have been the community
 
 I have the analytical skills of a UCLA trained computer scientist and can hold my own against engineers. I’ve built autonomous robots, remote controlled quad-copters, and have been involved in designing, developing, and releasing 13 apps to the Apple App Store. 
 
-I choose to live differently, to be inspired, to be interested and interesting. Cheers to your truest self. 
+I choose to live differently, to be inspired, to be interested and interesting. Here's what I've worked on in the past. If you like what you see, give me a shout at orcutt.chris@gmail.com.
 
 ### xActivist 
 
