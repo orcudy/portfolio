@@ -8,9 +8,9 @@ I'm Chris Orcutt and you've found my small home on the Internet. I created this 
 
 * I have the **analytical skills** of a UCLA trained computer scientist *(class of 2016!)*. I’ve built autonomous robots ([Medusa](http://bit.ly/demo-medusa)), remote controlled quad-copters ([Dumbo](https://vimeo.com/album/3693518/video/147213131)), and have been involved in designing, developing, and releasing 13 apps to the Apple App Store ([UCLALibrary](https://vimeo.com/album/3693502/video/148405704), [eWeek](https://vimeo.com/album/3693502/video/148404888), & [Biplanes](https://vimeo.com/album/3693502/video/103840072)).
 
-* And if that's not interesting enough for you, I quit my cushy job at Facebook in 2016 to undertake a **journey to find truth** that currently has me farming at Cloud Mountain Farm Center in Bellingham, WA! 
+And if that's not interesting enough for you, I quit my cushy job at Facebook in 2016 to undertake a journey to find truth that currently has me **farming and building yurts at Cloud Mountain Farm Center** in Bellingham, WA! 
 
-I choose to live differently, to be inspired, to be interested and interesting. Here's what I've worked on in the past. If you like what you see, give me a shout at orcutt.chris@gmail.com.
+I choose to live differently, to be inspired, to be interested and interesting. I am currently looking for my next adventure, give me a shout at orcutt.chris@gmail.com.
 
 ### xActivist 
 
