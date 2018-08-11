@@ -4,11 +4,11 @@ I'm Chris Orcutt and you've found my small home on the Internet. I created this 
 
 * I have an **extraordinarily creative spirit** and share myself with the world through the music/poetry/stories I write and the way that I move my body on the dance floor. I’ve designed and launched an urban clothing label ([xActivist](https://represent.com/store/xactivist)), have been the creative director/photographer/model/editor on multiple photo and video shoots ([Melona](https://youtu.be/zq4Tb_XMaAA) & [Buttercups](https://www.dropbox.com/sh/5acw6208v43pu3n/AABH46BRZ7N-vX3jNIoF67eJa?dl=0)), composed and performed original songs to 100’s of people ([Live@SummerFest](https://www.facebook.com/orcudy/videos/1565031503518830/)), maintain an online publication of poems about love, live, & finding meaning([Letters to my Lovers](https://medium.com/letters-to-my-lovers)), and maintain a personal blog on my experiences and views with happiness, sex, and drugs ([@chrisorcutt](https://medium.com/@chrisorcutt)). 
 
-* I am an **empathetic communicator, teacher, and student**. I have been the community manager of an extraordinarily diverse learning community in San Francisco, taught both high school students and career changing adults in a variety of subjects ranging from English to chemistry to software application development, and have wrote a book (well, an online tutorial) on building iOS applications. 
+* I am an **empathetic communicator, teacher, and student**. I have been the community manager of an extraordinarily diverse learning community in San Francisco ([Make School] (https://www.makeschool.com/summer-academy/san-francisco)), taught both high school students and career changing adults in a variety of subjects ranging from English to chemistry to software application development, and wrote an online tutorial on building iOS applications ([Make School Notes](https://www.makeschool.com/online-courses/tutorials/learn-how-to-build-make-school-notes-in-swift-3/welcome). 
 
-* I have the **analytical skills** of a UCLA trained computer scientist. I’ve built autonomous robots, remote controlled quad-copters, and have been involved in designing, developing, and releasing 13 apps to the Apple App Store.
+* I have the **analytical skills** of a UCLA trained computer scientist. I’ve built autonomous robots ([Medusa](http://bit.ly/demo-medusa)), remote controlled quad-copters ([Dumbo](https://vimeo.com/album/3693518/video/147213131)), and have been involved in designing, developing, and releasing 13 apps to the Apple App Store ([UCLALibrary](https://vimeo.com/album/3693502/video/148405704), [eWeek](https://vimeo.com/album/3693502/video/148404888), & [Biplanes](https://vimeo.com/album/3693502/video/103840072)).
 
-* And if that's not interesting enough for you, I quit my cushy job at Facebook in 2016 to undertake a **journey to find truth** that currently has me farming in Northern Washington! 
+* And if that's not interesting enough for you, I quit my cushy job at Facebook in 2016 to undertake a **journey to find truth** that currently has me farming at Cloud Mountain Farm Center in Bellingham, WA! 
 
 I choose to live differently, to be inspired, to be interested and interesting. Here's what I've worked on in the past. If you like what you see, give me a shout at orcutt.chris@gmail.com.
 
@@ -32,6 +32,12 @@ Similar to Buttercups, Melona was a private label ecommerce project. I was respo
 I have been writing and playing original acoustic music for the last 10 years.
 
 ### Writing
+
+* [Letter to my Lovers] (https://medium.com/letters-to-my-lovers)
+An online publication of poems about love, live, & finding meaning.
+
+* [Personal Blog](https://medium.com/@chrisorcutt)
+My experiences and views with happiness, sex, and drugs in our crazy. 
 
 * Make School Notes | [Tutorial](https://www.makeschool.com/online-courses/tutorials/learn-how-to-build-make-school-notes-in-swift-3/welcome)  
 An online tutorial designed to teach the basics of iOS application development.
