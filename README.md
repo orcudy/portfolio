@@ -33,16 +33,16 @@ I have been writing and playing original acoustic music for the last 10 years.
 
 ### Writing
 
-* [Letter to my Lovers] (https://medium.com/letters-to-my-lovers)
+* [Letter to my Lovers] (https://medium.com/letters-to-my-lovers)  
 An online publication of poems about love, live, & finding meaning.
 
-* [Personal Blog](https://medium.com/@chrisorcutt)
+* [Personal Blog](https://medium.com/@chrisorcutt)  
 My experiences and views with happiness, sex, and drugs in our crazy. 
 
-* Make School Notes | [Tutorial](https://www.makeschool.com/online-courses/tutorials/learn-how-to-build-make-school-notes-in-swift-3/welcome)  
+* [Make School Notes](https://www.makeschool.com/online-courses/tutorials/learn-how-to-build-make-school-notes-in-swift-3/welcome)  
 An online tutorial designed to teach the basics of iOS application development.
 
-* E = MC^2 | [Article](https://medium.com/@chrisorcutt/e-mc2-5015a71e390d)  
+* [E = MC^2](https://medium.com/@chrisorcutt/e-mc2-5015a71e390d)  
 An autobiographical piece about my journey through the education system.
 
 ### Apps
