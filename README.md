@@ -2,7 +2,7 @@ Greetings you *beautiful people*!
 
 I'm Chris Orcutt and you've found my small home on the Internet. I created this portfolio of projects to give you a better understanding of who I am. Many people would say that I’m kind of all over the place, and they would be right. I like to keep things interesting and I have a track record to prove it:
 
-* I have an **extraordinarily creative spirit** and share myself with the world through the music/poetry/stories I write and the way that I move my body on the dance floor. I’ve designed and launched an urban clothing label ([xActivist](https://represent.com/store/xactivist)), have been the creative director/photographer/model/editor on multiple photo and video shoots ([Melona](https://youtu.be/zq4Tb_XMaAA) & [Buttercups](https://www.dropbox.com/sh/5acw6208v43pu3n/AABH46BRZ7N-vX3jNIoF67eJa?dl=0)), composed and performed original songs to 100’s of people ([Live@SummerFest](https://www.facebook.com/orcudy/videos/1565031503518830/)), maintain an online publication of poems about love, live, & finding meaning([Letters to my Lovers](https://medium.com/letters-to-my-lovers)), and maintain a personal blog on my experiences and views with happiness, sex, and drugs ([@chrisorcutt](https://medium.com/@chrisorcutt)). 
+* I have an **extraordinarily creative spirit** and share myself with the world through the music/poetry/stories I write and the way that I move my body on the dance floor. I’ve designed and launched an urban clothing label ([xActivist](https://represent.com/store/xactivist)), have been the creative director/photographer/model/editor on multiple photo and video shoots ([Melona](https://youtu.be/zq4Tb_XMaAA) & [Buttercups](https://www.dropbox.com/sh/5acw6208v43pu3n/AABH46BRZ7N-vX3jNIoF67eJa?dl=0)), composed and performed original songs to 100’s of people ([Live@SummerFest](https://www.facebook.com/orcudy/videos/1565031503518830/)), maintain an online publication of poems about love, live, & finding meaning ([Letters to my Lovers](https://medium.com/letters-to-my-lovers)), and maintain a personal blog on my experiences and views with happiness, sex, and drugs ([@chrisorcutt](https://medium.com/@chrisorcutt)). 
 
 * I am an **empathetic communicator, teacher, and student**. I have been the community manager of an extraordinarily diverse learning community in San Francisco ([Make School](https://www.makeschool.com/summer-academy/san-francisco)), taught both high school students and career changing adults in a variety of subjects ranging from English to chemistry to software application development, and wrote an online tutorial on building iOS applications ([Make School Notes](https://www.makeschool.com/academy/track/build-ios-apps/learn-how-to-build-make-school-notes-in-swift-4/welcome)). 
 
@@ -33,7 +33,7 @@ I have been writing and playing original acoustic music for the last 10 years.
 
 ### Writing
 
-* [Letter to my Lovers] (https://medium.com/letters-to-my-lovers)  
+* [Letter to my Lovers](https://medium.com/letters-to-my-lovers)  
 An online publication of poems about love, live, & finding meaning.
 
 * [Personal Blog](https://medium.com/@chrisorcutt)  
